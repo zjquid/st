@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "xos4 Terminus:size=12:antialias=false";
-static int borderpx = 2;
+static char *font = "Inconsolata:size=12:antialias=false";
+static int borderpx = 0;
 
 /*
  * What program is execed by st depends of these precedence rules:
